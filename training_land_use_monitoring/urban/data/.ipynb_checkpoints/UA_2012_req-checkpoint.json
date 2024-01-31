@@ -1,0 +1,13 @@
+{
+  "datasetId": "EO:CLMS:DAT:URBAN-ATLAS",
+  "stringChoiceValues": [
+    {
+      "name": "product_type",
+      "value": "Urban Atlas 2012"
+    },
+    {
+      "name": "version",
+      "value": "Unspecified"
+    }
+  ]
+}
