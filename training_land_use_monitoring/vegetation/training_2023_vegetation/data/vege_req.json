@@ -1,0 +1,17 @@
+{
+  "datasetId": "EO:EEA:DAT:CLMS_HRVPP_VPP-LAEA",
+  "stringChoiceValues": [
+    {
+      "name": "productType",
+      "value": "LENGTH"
+    },
+    {
+      "name": "productGroupId",
+      "value": "s1"
+    },
+    {
+      "name": "resolution",
+      "value": "100"
+    }
+  ]
+}

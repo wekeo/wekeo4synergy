@@ -1,0 +1,24 @@
+{
+  "datasetId": "EO:EEA:DAT:CLMS_HRVPP_VPP-LAEA",
+  "dateRangeSelectValues": [
+    {
+      "name": "temporal_interval",
+      "start": "2015-01-01T00:00:00.000Z",
+      "end": "2023-01-01T00:00:00.000Z"
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "productType",
+      "value": "EOSD"
+    },
+    {
+      "name": "productGroupId",
+      "value": "s1"
+    },
+    {
+      "name": "resolution",
+      "value": "100"
+    }
+  ]
+}
