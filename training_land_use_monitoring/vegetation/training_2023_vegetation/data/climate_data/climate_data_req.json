@@ -1,0 +1,67 @@
+{
+  "datasetId": "EO:ECMWF:DAT:ECV_FOR_CLIMATE_CHANGE",
+  "multiStringSelectValues": [
+    {
+      "name": "variable",
+      "value": [
+        "precipitation",
+        "surface_air_temperature"
+      ]
+    },
+    {
+      "name": "product_type",
+      "value": [
+        "anomaly"
+      ]
+    },
+    {
+      "name": "climate_reference_period",
+      "value": [
+        "1981_2010"
+      ]
+    },
+    {
+      "name": "time_aggregation",
+      "value": [
+        "1_month_mean"
+      ]
+    },
+    {
+      "name": "year",
+      "value": [
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    {
+      "name": "month",
+      "value": [
+        "10",
+        "11",
+        "12",
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "name": "origin",
+      "value": [
+        "era5"
+      ]
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "format",
+      "value": "zip"
+    }
+  ]
+}
